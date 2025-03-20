@@ -89,7 +89,9 @@ export default function Navbar() {
                   className="w-6  rounded-full z-40 hidden lg:block  cursor-pointer lg:ml-[60px] xl:ml-[300px] "
                 />
 
-                <a
+                
+                {/* MENU /*}
+                {/*<a
                   href="/menu"
                   className="relative text-md  px-3 py-2 overflow-hidden font-bold text-[#541d69] bg-purple-500   rounded-lg shadow-inner group"
                 >
@@ -101,7 +103,11 @@ export default function Navbar() {
                   <span CLASS="relative transition-colors duration-300 delay-200 group-hover:text-white ease">
                     MENU
                   </span>
-                </a>
+                </a>*/}
+
+
+
+                
                 {/* <img
                   src="./metamask2.png"
                   className="w-14 rounded-full z-40 hidden md:block"
